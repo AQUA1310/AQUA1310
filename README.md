@@ -1,6 +1,7 @@
 # Hi there, I'm Zeel Pansuriya (AQUA) 👋
+
 <p align="left">
-  <img src="https://komarev.com/normal-counter/?username=AQUA1310&theme=tokyonight&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/GSSOC_2026-Contributor-orange?style=for-the-badge&logo=github" alt="GSSOC Contributor" />
 </p>
 
 ### 💫 About Me
@@ -54,8 +55,8 @@ I'm a **Mathematics and Computing Undergraduate** at NIT Warangal. I have a pass
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AQUA1310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AQUA1310&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AQUA1310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AQUA1310&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
